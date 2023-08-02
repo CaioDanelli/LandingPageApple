@@ -3,7 +3,7 @@
 
 <h3>✅ Style with CSS</h3>
 
-<h3>✅ MAKE JS FUNCTIONS</h3>
+<h3>✅ Make JS functions</h3>
 
 <h3>⏱ Finish project</h3>
 
